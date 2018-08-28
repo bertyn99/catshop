@@ -61,4 +61,6 @@ gem 'devise'
 gem 'dotenv'
 
 gem 'bootstrap', '~> 4.1.3'
-gem 'jquery-rails'
+
+gem 'coffee-script-source', '1.8.0'
+gem 'rails_12factor', group: :production
